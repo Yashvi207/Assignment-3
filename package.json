@@ -1,8 +1,8 @@
 {
-  "name": "assignment-3",
+  "name": "web322-app",
   "version": "1.0.0",
   "description": "Assignment 3",
-  "main": "blog-service.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
